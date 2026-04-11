@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1775840454462,
+  "timestamp": 1775867788271,
   "appVersion": "3.0.0 (2026.04.05)",
   "tables": [
     "characters",
@@ -31,5 +31,8 @@
     "pomodoroSessions",
     "couplesData",
     "_migration"
-  ]
+  ],
+  "chunkedTables": {
+    "messages": 2
+  }
 }
