@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1776781575162,
+  "timestamp": 1777423027559,
   "appVersion": "5.0.0 (2026.04.20)",
   "tables": [
     "characters",
@@ -13,6 +13,7 @@
     "userPosts",
     "chatSettings",
     "messages",
+    "favorites",
     "memory",
     "callLogs",
     "roleStickers",
