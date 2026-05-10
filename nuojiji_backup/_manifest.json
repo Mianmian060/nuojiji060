@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1777423027559,
+  "timestamp": 1778373545574,
   "appVersion": "5.0.0 (2026.04.20)",
   "tables": [
     "characters",
@@ -15,6 +15,7 @@
     "messages",
     "favorites",
     "memory",
+    "summaryEntries",
     "callLogs",
     "roleStickers",
     "tmSessions",
@@ -38,9 +39,18 @@
     "mapRasterCache",
     "customGames",
     "customWidgetTemplates",
+    "wallpapers",
+    "whiteDogData",
+    "isekaiSaves",
+    "pomodoroData",
+    "regexRules",
+    "mcpServers",
+    "thinkingStore",
+    "commitments",
+    "characterLifeState",
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 7
+    "messages": 8
   }
 }
