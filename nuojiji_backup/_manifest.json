@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1778373545574,
+  "timestamp": 1778928187160,
   "appVersion": "5.0.0 (2026.04.20)",
   "tables": [
     "characters",
@@ -39,6 +39,7 @@
     "mapRasterCache",
     "customGames",
     "customWidgetTemplates",
+    "customWidgetState",
     "wallpapers",
     "whiteDogData",
     "isekaiSaves",
